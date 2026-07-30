@@ -19,9 +19,14 @@ My LeetCode solutions in Java
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/lenin1911/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/lenin1911/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/lenin1911/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/lenin1911/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
