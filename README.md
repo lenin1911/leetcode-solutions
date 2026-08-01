@@ -7,12 +7,14 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lenin1911/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/lenin1911/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/lenin1911/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0706-design-hashmap](https://github.com/lenin1911/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lenin1911/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/lenin1911/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,4 +45,8 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/lenin1911/leetcode-solutions/tree/master/0706-design-hashmap) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/lenin1911/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
