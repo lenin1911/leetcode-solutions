@@ -32,6 +32,7 @@ My LeetCode solutions in Java
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/lenin1911/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/lenin1911/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
@@ -49,4 +50,8 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lenin1911/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/lenin1911/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
