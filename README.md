@@ -10,6 +10,7 @@ My LeetCode solutions in Java
 | [0074-search-a-2d-matrix](https://github.com/lenin1911/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/lenin1911/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0706-design-hashmap](https://github.com/lenin1911/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lenin1911/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/lenin1911/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lenin1911/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -54,4 +56,8 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/lenin1911/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lenin1911/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
