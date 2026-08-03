@@ -67,4 +67,8 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lenin1911/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/lenin1911/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
