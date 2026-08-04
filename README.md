@@ -12,6 +12,7 @@ My LeetCode solutions in Java
 | [0706-design-hashmap](https://github.com/lenin1911/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lenin1911/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lenin1911/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/lenin1911/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/lenin1911/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -74,4 +75,9 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/lenin1911/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/lenin1911/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/lenin1911/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
