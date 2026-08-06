@@ -75,9 +75,14 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/lenin1911/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/lenin1911/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lenin1911/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lenin1911/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/lenin1911/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
