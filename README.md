@@ -46,6 +46,7 @@ My LeetCode solutions in Java
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/lenin1911/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0706-design-hashmap](https://github.com/lenin1911/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Design
 |  |
