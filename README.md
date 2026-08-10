@@ -28,6 +28,7 @@ My LeetCode solutions in Java
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/lenin1911/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/lenin1911/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/lenin1911/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0706-design-hashmap](https://github.com/lenin1911/leetcode-solutions/tree/master/0706-design-hashmap) |
@@ -43,6 +44,7 @@ My LeetCode solutions in Java
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/lenin1911/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/lenin1911/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/lenin1911/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Linked List
@@ -78,6 +80,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/lenin1911/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/lenin1911/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lenin1911/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lenin1911/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
