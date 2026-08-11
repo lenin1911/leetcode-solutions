@@ -7,6 +7,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lenin1911/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/lenin1911/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lenin1911/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/lenin1911/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/lenin1911/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -67,6 +68,7 @@ My LeetCode solutions in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lenin1911/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/lenin1911/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -91,4 +93,8 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lenin1911/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/lenin1911/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
