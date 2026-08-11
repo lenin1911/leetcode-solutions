@@ -51,6 +51,7 @@ My LeetCode solutions in Java
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/lenin1911/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lenin1911/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0706-design-hashmap](https://github.com/lenin1911/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Design
@@ -69,6 +70,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lenin1911/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/lenin1911/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/lenin1911/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Heap (Priority Queue)
 |  |
