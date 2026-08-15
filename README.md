@@ -10,6 +10,7 @@ My LeetCode solutions in Java
 | [0011-container-with-most-water](https://github.com/lenin1911/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lenin1911/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/lenin1911/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/lenin1911/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/lenin1911/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0706-design-hashmap](https://github.com/lenin1911/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lenin1911/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -90,6 +91,7 @@ My LeetCode solutions in Java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/lenin1911/leetcode-solutions/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lenin1911/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Enumeration
 |  |
