@@ -86,6 +86,7 @@ My LeetCode solutions in Java
 | ------- |
 | [0007-reverse-integer](https://github.com/lenin1911/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/lenin1911/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/lenin1911/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lenin1911/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lenin1911/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
@@ -101,4 +102,12 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lenin1911/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lenin1911/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lenin1911/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
