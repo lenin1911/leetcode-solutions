@@ -9,6 +9,7 @@ My LeetCode solutions in Java
 | [0004-median-of-two-sorted-arrays](https://github.com/lenin1911/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/lenin1911/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lenin1911/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/lenin1911/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/lenin1911/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/lenin1911/leetcode-solutions/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lenin1911/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -29,6 +30,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lenin1911/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/lenin1911/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +114,7 @@ My LeetCode solutions in Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/lenin1911/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/lenin1911/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
